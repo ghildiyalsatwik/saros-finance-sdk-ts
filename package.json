@@ -1,0 +1,18 @@
+{
+  "name": "saros-sdk",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@saros-finance/sdk": "^2.4.0",
+    "@solana/web3.js": "^1.98.4",
+    "bn.js": "^5.2.2"
+  }
+}
